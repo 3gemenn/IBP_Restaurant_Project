@@ -1,0 +1,23 @@
+
+#slayt{
+    position: absolute;
+    left: 650px;
+    top: 80px;
+    width: 600px;
+    height: 100px;
+}
+
+#card{
+    position: absolute;
+    top: 800px;
+
+}
+
+#duyuru{
+    position: absolute;
+    border-style: solid;
+    width: 500px;
+    height: 600px;
+    top: 670px;
+    left: 1350px;
+}
