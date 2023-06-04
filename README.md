@@ -1,1 +1,3 @@
-<iframe width="1904" height="768" src="https://www.youtube.com/embed/4wo2oS4wWhw" title="TRABZON &#39;da GİZLİCE BİR GÜN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
